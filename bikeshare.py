@@ -217,7 +217,6 @@ def test_main():
         if restart.lower() != 'yes':
             break
 
-main()
             
 if __name__ == "__main__":
 	main()
