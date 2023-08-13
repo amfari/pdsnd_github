@@ -13,5 +13,5 @@ Describe what your project is about and what it does
 CSV city data files used (in .gitignore)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you Udacity. 
 
