@@ -7,7 +7,7 @@
 Replace the Project Title
 
 ### Description
-This repo is used to simulate work in github. The actual files are not important..
+This repo is used to simulate work in github. The actual files are not important...
 
 ### Files used
 CSV city data files used (in .gitignore)
