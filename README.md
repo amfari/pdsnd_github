@@ -7,7 +7,7 @@
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This repo is used to simulate work in github. The actual files are not important.
 
 ### Files used
 CSV city data files used (in .gitignore)
